@@ -21,6 +21,7 @@ style_mono_accent(
   text_font_google   = google_font("Montserrat", "300", "300i"),
   code_font_google   = google_font("Fira Mono")
 )
+
 ```
 
 ```{r echo=FALSE}
