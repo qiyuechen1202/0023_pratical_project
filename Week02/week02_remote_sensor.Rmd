@@ -1,0 +1,71 @@
+---
+title: "Exploring the features and applications of Sentinel-2"
+subtitle: ""
+author: "Qiyue Chen"
+institute: "CASA,UCL"
+date: "2024/1/18 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: ["xaringan-themer.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_mono_accent(
+  base_color = "#47B5A4",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+```{r echo=FALSE}
+library(RefManageR)
+BibOptions(check.entries = FALSE,
+           bib.style = "authoryear",
+           cite.style = "authoryear",
+           style = "markdown",
+           hyperlink = TRUE,
+           dashed = FALSE,
+           no.print.fields=c("doi", "url", "urldate", "issn"))
+myBib <- ReadBib("/Users/chenfen/Desktop/CASA/CASA0023 RSCE/0023_pratical_project/Week02/bib/test_QM.bib", check = FALSE)
+```
+class: inverse,bottom,left
+background-image: url(img/Sentinel-2-infographic.png)
+background-size: cover
+
+Picture from: [ESA(no date)](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2)
+
+---
+class: inverse,top, left
+background-image: url(img/Figure02.png)
+background-size:cover
+### What distinguishes Sentinel-2 from other Sentinel satellites?
+---
+The technical information
+---
+
+## citation format
+`r Citet(myBib,"ozdemirUsingBinaryLogistic2011")`
+
+---
+# reference list
+```{r results='asis', echo=FALSE}
+PrintBibliography(myBib, start = 1, end = 7)
+```
+---
+
+---
+
+---
+class: center, middle
+
+# Thanks!
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+
+The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](https://yihui.org/knitr/), and [R Markdown](https://rmarkdown.rstudio.com).
