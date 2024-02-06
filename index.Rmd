@@ -33,7 +33,7 @@ BibOptions(check.entries = FALSE,
            hyperlink = TRUE,
            dashed = FALSE,
            no.print.fields=c("doi", "url", "urldate", "issn"))
-myBib <- ReadBib("/Users/chenfen/Desktop/CASA/CASA0023 RSCE/0023_pratical_project/Week02/bib/test_QM.bib", check = FALSE)
+myBib <- ReadBib("/Users/chenfen/Desktop/CASA/CASA0023 RSCE/0023_pratical_project/bib/test_QM.bib", check = FALSE)
 ```
 class: inverse,bottom,left
 background-image: url(img/Sentinel-2-infographic.png)
