@@ -40,9 +40,9 @@ class: inverse,bottom,left
 background-image: url(img/Sentinel-2-infographic.png)
 background-size: cover
 
-<p style="position: absolute; bottom:25px; left:35px; color: white; font-size: 15px; font-weight: bold;">Figure 1: The Basic Information of Sentinel-2</p>
+<p style="position: absolute; bottom:25px; left:35px; color: white; font-size: 14px; font-weight: bold;">Figure 1: The Basic Information of Sentinel-2</p>
 </div>
-<p style="position: absolute; bottom:5px; left:35px; color: white; font-size: 15px; font-weight: bold;"> Picture from: [ESA(no date)](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2)</p>
+<p style="position: absolute; bottom:5px; left:35px; color: white; font-size: 14px; font-weight: bold;"> Picture from: [ESA(no date)](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2)</p>
 </div>
 ---
 class: inverse,top, left
@@ -53,7 +53,7 @@ background-size:cover
 </div>
 
 
-<p style="position: absolute; bottom:0px; left:35px; color: white; font-size: 15px; font-weight: bold;"> Figure 2: Sentinel Family, source from: [ESA(no date)](https://sentinels.copernicus.eu/web/sentinel/missions) and [Breeze Technologies(2020)](https://www.breeze-technologies.de/blog/different-esa-copernicus-sentinel-missions-and-what-they-measure/)</p>
+<p style="position: absolute; bottom:0px; left:35px; color: white; font-size: 14px; font-weight: bold;"> Figure 2: Sentinel Family, source from: [ESA(no date)](https://sentinels.copernicus.eu/web/sentinel/missions) and [Breeze Technologies(2020)](https://www.breeze-technologies.de/blog/different-esa-copernicus-sentinel-missions-and-what-they-measure/)</p>
 </div>
 ---
 ## Operational Information
@@ -78,7 +78,7 @@ by 180 degrees
 
 <img src="img/Sentinel-2_Orbit.png" style="width: 68%; position: relative; bottom: 350px; left: 310px;" >
 
-<p style="position: absolute; bottom: 60px; right: 10px; color: black; font-size: 15px; font-weight: bold;"> Figure 3: [The Twin-Satellite Sentinel-2 Orbital Configuration](https://sentiwiki.copernicus.eu/web/s2-mission)</p>
+<p style="position: absolute; bottom: 60px; right: 10px; color: black; font-size: 14px; font-weight: bold;"> Figure 3: [The Twin-Satellite Sentinel-2 Orbital Configuration](https://sentiwiki.copernicus.eu/web/s2-mission)</p>
 </div>
 
 ---
@@ -93,10 +93,10 @@ The Sentinel-2 will cover the following areas: <br/>
 - the Mediterranean Sea.
 - all closed seas (e.g. Caspian Sea).]
 
-<img src="img/coverage_revisit_time.png" style="width:62%; position: relative; bottom: 300px;
-left:359px;" >
+<img src="img/coverage_revisit_time.png" style="width:60%; position: relative; bottom: 280px;
+left:360px;" >
 
-<p style="position: absolute; bottom: 120px; right: 10px; color: black; font-size: 15px; font-weight: bold;"> Figure 4 : [The Coverage and Revisit Time Foreseen of Sentinel -2](https://sentiwiki.copernicus.eu/web/s2-mission)</p>
+<p style="position: absolute; bottom: 140px; right:20px; color: black; font-size: 14px; font-weight: bold;"> Figure 4 : [The Coverage and Revisit Time Foreseen of Sentinel -2](https://sentiwiki.copernicus.eu/web/s2-mission)</p>
 </div>
 ---
 ## MultiSpectral Instrument (MSI)
@@ -138,9 +138,9 @@ B1 (443 nm), B9 (940 nm) and B10 (1375 nm)
 .panel-name[Spectral]
 The spectral resolution measures the ability of the instrument to distinguish features in the electromagnetic spectrum.
 
-<img src="img/Spectral.png" style="width:52%; position: relative; bottom: 18px; left: 150px;">
+<img src="img/Spectral.png" style="width:52%; position: relative; bottom: 18px; left: 140px;">
  
-<p style="position: absolute; bottom: 10px; left: 565px; color: black; font-size: 15px; font-weight: bold;"> Figure 5 : The spectral band characteristics and resolutions of Sentinel-2. Source from Gascon, et al. (2017)</p>
+<p style="position: absolute; bottom: 10px; left: 565px; color: black; font-size: 14px; font-weight: bold;"> Figure 5 : The spectral band characteristics and resolutions of Sentinel-2. Source from Gascon, et al. (2017)</p>
 ]
 
 .panel[
@@ -170,7 +170,7 @@ Sentinel-2 can provides geospatial information on land cover and its changes, la
 <img src="img/application_1_1.webp" style="width:100%; position: relative; bottom: 20px; right:5px;">
 ]
 
-<p style="position: absolute; bottom: 50px; left: 480px; color: black; font-size: 15px; font-weight: bold;"> Figure 6 : Result of land use and land use changes,<br/> 2000–2003. Source from Deng et al. (2019)</p>
+<p style="position: absolute; bottom: 50px; left: 480px; color: black; font-size: 14px; font-weight: bold;"> Figure 6 : Result of land use and land use changes,<br/> 2000–2003. Source from Deng et al. (2019)</p>
 
 
 ---
@@ -193,10 +193,10 @@ Sentinel-2 can provides geospatial information on land cover and its changes, la
 
 </div>
 
-<p style="position: absolute; bottom:66px; left:420px; color: black; font-size: 15px; font-weight: bold;"> ← Figure 7(left): Sentinel-2A MSI image of post-fire Madeira <br/>
+<p style="position: absolute; bottom:66px; left:420px; color: black; font-size: 14px; font-weight: bold;"> ← Figure 7(left): Sentinel-2A MSI image of post-fire Madeira <br/>
 island provided by CEMS. </p>
 
-<p style="position: absolute; bottom:0px; left:420px; color: black; font-size: 15px; font-weight: bold;"> ↑ Figure 8(right): Maps of Normalised Burn Ratio (NBR) : <br/>
+<p style="position: absolute; bottom:0px; left:420px; color: black; font-size: 14px; font-weight: bold;"> ↑ Figure 8(right): Maps of Normalised Burn Ratio (NBR) : <br/>
 a) pre-fire b) post-fire and c) NBR difference (dNBR). <br/>
 Pictures source from Navarro et al. (2017) </p>
 
