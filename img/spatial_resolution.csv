@@ -1,0 +1,8 @@
+"Band Number,Spatial Resolution ,Central Wavelength ,Band Number,Spatial Resolution ,Central Wavelength "
+"B1,60 meter,443nm,B8,10 meter,842nm"
+"B2,10 meter,490nm,B8a,20 meter,865nm"
+"B3,10 meter,560nm,B9,60 meter,940nm"
+"B4,10 meter,665nm,B10,60 meter,1375nm"
+"B5,20 meter,705nm,B11,20 meter,1610nm"
+"B6,20 meter,740nm,B12,20 meter,2190nm"
+"B7,20 meter,783nm,,,"
